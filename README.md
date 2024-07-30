@@ -56,13 +56,6 @@ The analysis was performed using the following Python libraries:
 - `matplotlib`
 - `seaborn`
 
-## Usage
-
-To replicate the analysis:
-1. Clone the repository and navigate to the project directory.
-2. Install the required libraries.
-3. Run the Jupyter Notebook or Python script containing the analysis.
-
 ## Conclusion
 
 The analysis provides valuable insights into customer behavior during the Diwali season. It highlights the importance of targeting specific demographics, such as married women aged 26-35 from Uttar Pradesh, Maharashtra, and Karnataka, particularly those working in IT, Healthcare, and Aviation sectors, with products in the Food, Clothing, and Electronics categories.
